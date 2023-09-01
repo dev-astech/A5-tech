@@ -8,9 +8,9 @@
 -⚡ Fun fact: ...
 Here are some ideas to get you started:
 -->
--🔭 I’m currently working on oneself to earn new skills.
--🌱 I’m currently learning Android App Development
--📫 How to reach me: https://www.linkedin.com/in/as-tech/
+-🔭 I’m currently working on oneself to earn new skills.<br>
+-🌱 I’m currently learning Android App Development.<br>
+-📫 How to reach me: https://www.linkedin.com/in/as-tech/ <br>
 -😄 Pronouns: he/him
 
 
